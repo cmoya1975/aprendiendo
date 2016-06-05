@@ -1,3 +1,4 @@
+TextWindow.BackgroundColor = "red"
 TextWindow.WriteLine("Hola soy Word, como te llamas?")
 nombre = TextWindow.Read()
 TextWindow.WriteLine("hola "+nombre)
